@@ -1,0 +1,13 @@
+.imgprevisu {
+    position:fixed;
+    top:10px;
+    right:10px;
+    bottom:10px;
+}
+
+#titredate {
+  font-weight: 700;
+  color: #7b7b7b;
+  letter-spacing: 1px;
+}
+
