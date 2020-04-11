@@ -1,0 +1,202 @@
+<!DOCKTYPE html>
+<html>
+	<head>
+	
+	<meta charset="utf-8" />
+	 <link rel="stylesheet" type="text/css"
+	media="screen" href="styles.css" />
+	
+				
+<div class="boite">
+<img src="logo.jpg" class="imgindex" width="30%"/> 
+
+ <h1>Journal du 29 mars 2020 - Bordeaux</h1>
+ 
+<a href="https://www.sudouest.fr/" target="_blank">Site officiel</a>
+
+</div>
+ 
+<link rel="icon" type="logo.jpg" href="logo.jpg" />
+		<title> SUD-OUEST </title>
+	</head>
+		<body>
+
+<section id="services" name="services"></section>
+  <div id="w">
+    <div class="container">
+        <div class="container_innov">
+          <ul id="menu-deroulant" class="row">
+            <div class="col-lg-4">
+                <li class="cadre">Monde<br/> 
+                    <a data-img="imgprevisu.jpg" class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                    <a data-img="unnamed.jpg" class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                    <a class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                </li>
+            </div>
+            <div class="col-lg-4">
+                <li class="cadre">France<br/>
+                    <a class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                    <a class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                    <a class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                    <a class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                </li>
+            </div>
+			<div class="col-lg-4">
+                <li class="cadre">Opinions<br/>
+                    <a class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                    <a class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                </li>
+            </div>
+			<div class="col-lg-4">
+                <li class="cadre">Economie<br/>
+                    <a class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                    <a class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                </li>
+            </div>
+            <div class="col-lg-4">
+                <li class="cadre">Région<br/>
+                    <a class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                    <a class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                    <a class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                </li>
+            </div>
+            <div class="col-lg-4">
+                <li class="cadre">Gironde<br/>
+                    <a class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                    <a class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                    <a class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                </li>
+            </div>
+            <div class="col-lg-4">
+                <li class="cadre">Agglorama<br/>
+                    <a class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                    <a class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                    <a class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                    <a class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                </li>
+            </div>
+            <div class="col-lg-4">
+                <li class="cadre">Bordeaux<br/>
+                    <a class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                    <a class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                    <a class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                </li>
+            </div>
+            <div class="col-lg-4">
+                <li class="cadre">Mérignac<br/>
+                    <a class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                    <a class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                    <a class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                </li>
+            </div>
+            <div class="col-lg-4">
+                <li class="cadre">Pessac<br/>
+                    <a class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                    <a class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                </li>
+            </div>
+            <div class="col-lg-4">
+                <li class="cadre">Talence<br/>
+                    <a class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                    <a class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                </li>
+            </div>
+            <div class="col-lg-4">
+                <li class="cadre">Eysines<br/>
+                    <a class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                    <a class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                    <a class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                </li>
+            </div>
+            <div class="col-lg-4">
+                <li class="cadre">Le Bouscat<br/>
+                    <a class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                </li>
+            </div>
+            <div class="col-lg-4">
+                <li class="cadre">Annonces<br/>
+                    <a class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                    <a class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                    <a class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                </li>
+            </div>
+            <div class="col-lg-4">
+                <li class="cadre">Carnets<br/>
+                    <a class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                </li>
+            </div>
+            <div class="col-lg-4">
+                <li class="cadre">Sport<br/>
+                    <a class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                    <a class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                    <a class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                </li>
+            </div> 
+            <div class="col-lg-4">
+                <li class="cadre">Courses<br/>
+                    <a class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                    <a class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                </li>
+            </div>
+            <div class="col-lg-4">
+                <li class="cadre">Bourse<br/>
+                    <a class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                    <a class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                    <a class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                </li>
+            </div>
+            <div class="col-lg-4">
+                <li class="cadre">Pratiques<br/>
+                    <a class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                    <a class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                    <a class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                </li>
+            </div>
+            <div class="col-lg-4">
+                <li class="cadre">Saveurs<br/>
+                    <a class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                    <a class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                    <a class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                </li>
+            </div>
+            <div class="col-lg-4">
+                <li class="cadre">Zapping<br/>
+                    <a class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                    <a class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                </li>
+            </div>
+            <div class="col-lg-4">
+                <li class="cadre">Jeux<br/>
+                    <a class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                    <a class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                    <a class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                </li>
+            </div>
+            <div class="col-lg-4">
+                <li class="cadre">Télévision<br/> 
+                    <a class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                </li>
+            </div>
+            <div class="col-lg-4">
+                <li class="cadre">Météo<br/> 
+                    <a class="viewpic" href="https://google.fr"><i class="fas fa-newspaper"></i><span><img src="newspaper.png" alt="" class="imgprevisu"/></span></a> 
+                </li>
+            </div>
+			
+			<br>
+			
+			<div id="copyrights">
+    <div class="container">
+      <p>
+        &copy; Copyrights <strong>Nolwenn & Elisa, LP MIND</strong>. All Rights Reserved
+      </p>
+    </div>
+  </div>
+  
+  <img id="overview"/>
+  
+  <script src="script.js"></script>
+
+		</body>
+
+</html>
